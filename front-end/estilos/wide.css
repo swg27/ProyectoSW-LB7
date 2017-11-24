@@ -1,0 +1,8 @@
+body				{background: #4e4e4e;}
+
+#page-wrap:after 	{content: "";}
+
+nav					{float: left; width: 15%; height: 1024px;}
+nav span			{margin: 0px 100px 0px 0px;}
+section				{float: right; width: 84.5%; height: 1024px;}
+footer				{clear: both; display: block; border: 1px solid #3f3f3f;}
