@@ -9,9 +9,7 @@ if(isset($_SESSION['ID']))
     $email =$_SESSION['email'];
     if (empty($email)) {
         echo 'error 1';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'error 2';
-    } else {
+    }else {
 //ob_start();
 //session_start();
 
@@ -103,7 +101,12 @@ die('Error: ' . mysqli_error($conn));
       <div style="height: auto;">
       <nav class='main' id='n1' role='navigation'>
 		<span><a href='layout.php'>Inicio</a></span>
-			<span><a href='gestion-preguntas.php'>Gestión preguntas</a></span>
+          <?php if($_SESSION['usuario'] == 'PROFESOR'){
+              echo"<span><a href='cambiarPregunta.php'>Modificar preguntas</a></span>";
+          }else if($_SESSION['usuario'] == 'ALUMNO') {
+              echo "<span><a href='gestion-preguntas.php'>Gestión de preguntas</a></span>";
+          }
+          ?>
 	</nav>
     <section class="main" id="s1">
 	<div align="center">

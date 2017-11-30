@@ -4,7 +4,7 @@ session_start();
 //COMPRUEBA QUE EL USUARIO ESTA AUTENTIFICADO
 if ($_SESSION["usuario"] != "ALUMNO") {
  //si no existe, envio a la página de autentificación
- echo("<script> window.location.assign('../../front-end/php/layaoutProfesor.php') </script>");
+    header("Location: ../../php/login.php");
  //además salgo de este script
  exit();
 }

@@ -23,18 +23,20 @@ if(isset($_SESSION['ID'])){
     $cod_pregunta = $_POST['cod_pregunta'];
     echo $cod_pregunta;
 
-    $QueryPregunta = "UPDATE preguntas SET dificultad=$level, tema='$tema', pregunta='$question', respuesta='$correctAns', no_respuesta_1='$incorrectAns1', no_respuesta_2='$incorrectAns2', no_respuesta_3='$incorrectAns3' WHERE cod_pregunta=$cod_pregunta";
+    $QueryPregunta = "UPDATE Preguntas SET dificultad=$level, tema='$tema', pregunta='$question', respuesta='$correctAns', no_respuesta_1='$incorrectAns1', no_respuesta_2='$incorrectAns2', no_respuesta_3='$incorrectAns3' WHERE CodPregunta=$cod_pregunta";
+
 
     if (!mysqli_query($conn, $QueryPregunta)) {
         die('Error: ' . mysqli_error($conn));
     }else{
 
-    $Query = mysqli_query($conn, $QueryPregunta);
+        $QueryData ="SELECT * FROM Preguntas WHERE CodPregunta=$cod_pregunta";
 
-    $row3 = mysqli_fetch_array($Query);
+        $Query = mysqli_query($conn, $QueryData) or die('Error: ' . mysqli_error($conn));
+
+        $row3 = mysqli_fetch_array($Query);
 
 
-}
 
 
 $result .= '<div id="blk" align="left">
@@ -63,7 +65,9 @@ $result .= '<div id="blk" align="left">
 
 
 echo $result;
-}
+
+        }
+    }
 ?>
 
 </html>

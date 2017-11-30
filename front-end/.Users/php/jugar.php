@@ -8,8 +8,6 @@ if(isset($_SESSION['ID']))
     $email = $_SESSION['email'];
     if (empty($email)) {
         echo 'error 1';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'error 2';
     } else {
 //ob_start();
 //session_start();

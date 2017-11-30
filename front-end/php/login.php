@@ -1,12 +1,9 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 
 <?php
-if (isset($_SESSION['usuario'])){
-    if ($_SESSION['usuario'] == 'ALUMNO'){
-        echo("<script> window.location.assign('../.Users/php/layaoutAlumno.php') </script>");
-    }else{
-        echo("<script> window.location.assign('../.Users/php/layaoutProfesor.php') </script>");
-    }
+if (isset($_SESSION['ID'])){
+        echo("<script> window.location.assign('../.Users/php/layout.php') </script>");
 }
 
 if(isset($_POST['submiter']) && $_SERVER["REQUEST_METHOD"] == "POST")
@@ -17,12 +14,7 @@ $contrasenha = trim($_POST['contrasenha']);
 if(empty($email))
 {
     echo "<script type='text/javascript'>alert('Email vacio');</script>";
-}
-else if(!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email))
-{
-    echo "<script type='text/javascript'>alert('Error de credenciales 1');</script>";
-}
-else if(!preg_match("/^[a-zA-Z0-9!@#\$%\^&\*\?_~\/\\\-\_]{6,20}$/", $contrasenha))
+} else if(!preg_match("/^[a-zA-Z0-9!@#\$%\^&\*\?_~\/\\\-\_]{6,20}$/", $contrasenha))
 {
     echo "<script type='text/javascript'>alert('Error de credenciales 2');</script>";
 }else {
@@ -51,7 +43,7 @@ if($contrasenha == $pass && $email == $e_mail) {
 
     session_start();
     $_SESSION['ID']=$email;
-    if($email == ':web000@ehu.es'){
+    if($email == 'web000@ehu.es'){
         $_SESSION['usuario']= "PROFESOR";
         $_SESSION['autentificado'] = 'PROFESOR';
         $_SESSION['email'] = $email;

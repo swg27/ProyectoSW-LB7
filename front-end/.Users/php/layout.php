@@ -1,15 +1,14 @@
+<!--?php session_start();?-->
 <!DOCTYPE html>
 <?php
 
-include_once '../../../.back-end/php/seguridadAlumno.php';
+include_once '../../../.back-end/php/seguridad.php';
 
 if(isset($_SESSION['ID']))
 {
     $email = $_SESSION['email'];
     if (empty($email)) {
         echo 'error 1';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'error 2';
     } else {
 //ob_start();
 //session_start();
@@ -31,8 +30,6 @@ if(isset($_SESSION['ID']))
         clearstatcache();
 
          if($email == $row['email']) {
-
-
 
 ?>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -101,8 +98,12 @@ if(isset($_SESSION['ID']))
         <div style="height: auto;">
     <nav class='main' id='n1' role='navigation'>
         <span><a href='creditos.php'>Creditos</a></span>
-        <span><a href='gestion-preguntas.php'>Gestión de preguntas</a></span>
-        <span><a href='cambiarPregunta.php'>Modificar preguntas</a></span>
+        <?php if($_SESSION['usuario'] == 'PROFESOR'){
+            echo"<span><a href='cambiarPregunta.php'>Modificar preguntas</a></span>";
+        }else if($_SESSION['usuario'] == 'ALUMNO') {
+           echo "<span><a href='gestion-preguntas.php'>Gestión de preguntas</a></span>";
+        }
+        ?>
 
     </nav>
     <section class="main" id="s1">

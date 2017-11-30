@@ -1,19 +1,17 @@
+<!--?php session_start(); ?-->
 <!DOCTYPE html>
 
 <?php
 
-include_once '../../../.back-end/php/seguridad.php';
+include_once '../../../.back-end/php/seguridadAlumno.php';
 
  if(isset($_SESSION['ID']))
  {
      $email = $_SESSION['email'];
      if (empty($email)) {
          echo 'error 1';
-     } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-         echo 'error 2';
-     }else {
-//ob_start();
-//session_start();
+     } else {
+
 
          include_once '../../../.back-end/.others/.Dbconnect.php';
 
@@ -28,8 +26,7 @@ include_once '../../../.back-end/php/seguridad.php';
 
              $user = mysqli_query($conn, $sql);
              $row = mysqli_fetch_array($user);
-//mysqli_close($conn);
-//clearstatcache();
+
 
              if($email === $row['email']) {
 
@@ -168,8 +165,59 @@ include_once '../../../.back-end/php/seguridad.php';
 
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script>
+    <script language="JavaScript">
         var host = "http://localhost:80/SW/ProyectoSW-LB7";
+
+        setInterval(function () {
+
+            var mygetrequest;
+            if(window.XMLHttpRequest)
+                mygetrequest = XMLHttpRequest;
+            else
+                mygetrequest = ActiveXObject;
+            mygetrequest.onreadystatechange=function(){
+                if (mygetrequest.readyState===4){
+                    if (mygetrequest.status===200 || window.location.href.indexOf("http")===-1){
+                        $('#info_quantity').text(mygetrequest.responseText);
+                    }
+                    else{
+                        alert("An error has occured making the request");
+                    }
+                }
+            };
+
+            var userId = $('#e-mail').val();
+            mygetrequest.open("GET", host+"/.back-end/php/cantidad-preguntas.php?user="+userId, true);
+            mygetrequest.send(null);
+
+            $('#info_quantity').css('color','green');
+
+
+
+            var result =  $('#info_users_editing');
+            var counter;
+            var xmlhttp;
+
+            if(window.XMLHttpRequest)
+                xmlhttp = XMLHttpRequest;
+            else
+                xmlhttp = ActiveXObject;
+            result.css('color','red');
+            xmlhttp.onreadystatechange = function () {
+                result.css('color','orange');
+                if(xmlhttp.readyState === 4 && xmlhttp.status === 200){
+                    result.css('color','green');
+                    if(xmlhttp.responseXML !== null){
+                        counter = xmlhttp.responseXML.getElementsByTagName("contador").item(0);
+                        result.text(counter.firstChild.nodeValue);
+                    }
+                }
+            };
+            xmlhttp.open("GET", host+'/.back-end/xml/contador.xml', true);
+            xmlhttp.send();
+
+        },20000);
+
         $(function() {
 
             setInterval(ajaxgetQuantityUserIn(), 5000);

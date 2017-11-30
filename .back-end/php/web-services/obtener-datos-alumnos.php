@@ -8,9 +8,7 @@ if(isset($_POST['email']) && $_SERVER["REQUEST_METHOD"] == "POST") {
 
     if (empty($email)) {
         echo 'Email vacio';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'El email no cumple con lo establecido';
-    } else if (!preg_match("/^(([a-zA-Z]{1,}\ ){1,10})([a-zA-Z]{1,})$/", $nombre)) {
+    } else  if (!preg_match("/^(([a-zA-Z]{1,}\ ){1,10})([a-zA-Z]{1,})$/", $nombre)) {
         echo 'El nombre no cumple con lo establecido';
     } else if (!preg_match("/^(([a-zA-Z0-9\_\-]{1,}))$/", $username)) {
         echo 'El username no cumple con lo establecido';
@@ -44,7 +42,7 @@ if(isset($_POST['email']) && $_SERVER["REQUEST_METHOD"] == "POST") {
 
             if($passIsValid === 'VALIDA'){
 
-        /* include_once '../../.back-end/.others/.Dbconnect.php';
+        include_once '../../.others/.Dbconnect.php';
 
          $error = false;
 
@@ -74,14 +72,14 @@ if(isset($_POST['email']) && $_SERVER["REQUEST_METHOD"] == "POST") {
              }
          }
          if(!mysqli_query($conn, $sql)){
-             echo "<p> <button onclick='window.history.back()'>Volver atras</button></p>";
+             echo '<meta http-equiv="refresh" content="0; URL=../../../front-end/php/register.html">';
              die('Error: ' . mysqli_error($conn));
          }
 
 
 
          mysqli_close($conn);
-         clearstatcache();*/
+         clearstatcache();
              echo trim($result);
              }else{
                 echo " eres un usuario valido pero la contrasenha: $pass esta contenida como invalida";
@@ -94,4 +92,7 @@ if(isset($_POST['email']) && $_SERVER["REQUEST_METHOD"] == "POST") {
 }else{echo "FAIL! email";}
 
 ?>
+
+
+
 

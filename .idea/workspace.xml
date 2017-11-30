@@ -1,7 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08263fd2-bfed-4f42-9096-bce376a77163" name="Default" comment="" />
+    <list default="true" id="08263fd2-bfed-4f42-9096-bce376a77163" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/front-end/.Users/php/layoutAlumno.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/front-end/.Users/php/layoutProfesor.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/resources/img/default.jpg" afterPath="$PROJECT_DIR$/front-end/.Users/resources/img/default.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/resources/img/two-monkeys.jpg" afterPath="$PROJECT_DIR$/front-end/.Users/resources/img/two-monkeys.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/resources/img/user_default.png" afterPath="$PROJECT_DIR$/front-end/.Users/resources/img/user_default.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/resources/img/default.jpg" afterPath="$PROJECT_DIR$/front-end/resources/img/default.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/resources/img/two-monkeys.jpg" afterPath="$PROJECT_DIR$/front-end/resources/img/two-monkeys.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/resources/img/user_default.png" afterPath="$PROJECT_DIR$/front-end/resources/img/user_default.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractClass.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractClass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractClass_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractClass_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractMethod.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractMethod.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateClass.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateClass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateClass_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateClass_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateMethod.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/AbstractPrivateMethod.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Class.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Class.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Class_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Class_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Constant.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Constant.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Constructor.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Constructor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Destructor.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Destructor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Function.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Function.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Global.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Global.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/I.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/I.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Index.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Index.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/L.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/L.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Lminus.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Lminus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Lplus.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Lplus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Method.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Method.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Page.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Page_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Page_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateClass.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateClass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateClass_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateClass_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateMethod.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateMethod.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateVariable.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/PrivateVariable.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/T.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/T.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Tminus.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Tminus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Tplus.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Tplus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/Variable.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/Variable.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/blank.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/class_folder.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/class_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/empty.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/file.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/file.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/folder.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/function_folder.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/function_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/next_button.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/next_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/next_button_disabled.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/next_button_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/package.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/package.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/package_folder.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/package_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/previous_button.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/previous_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/previous_button_disabled.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/previous_button_disabled.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/private_class_logo.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/private_class_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/tutorial.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/tutorial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/tutorial_folder.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/tutorial_folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/images/up_button.png" afterPath="$PROJECT_DIR$/nusoap/docs/media/images/up_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/.others/.Dbconnect.php" afterPath="$PROJECT_DIR$/.back-end/.others/.Dbconnect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/.others/.reg.php" afterPath="$PROJECT_DIR$/.back-end/.others/.reg.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/.others/vars.php" afterPath="$PROJECT_DIR$/.back-end/.others/vars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/.others/ver-preguntas.xsl" afterPath="$PROJECT_DIR$/.back-end/.others/ver-preguntas.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/.idea/modules.xml" afterPath="$PROJECT_DIR$/.back-end/php/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/.idea/php.iml" afterPath="$PROJECT_DIR$/.back-end/php/.idea/php.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.back-end/php/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/actualizarPregunta.php" afterPath="$PROJECT_DIR$/.back-end/php/actualizarPregunta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/cantidad-preguntas.php" afterPath="$PROJECT_DIR$/.back-end/php/cantidad-preguntas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/cantidad-visitantes-dentro.php" afterPath="$PROJECT_DIR$/.back-end/php/cantidad-visitantes-dentro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php" afterPath="$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/logout.php" afterPath="$PROJECT_DIR$/.back-end/php/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/obtenerPregunta.php" afterPath="$PROJECT_DIR$/.back-end/php/obtenerPregunta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/seguridad.php" afterPath="$PROJECT_DIR$/.back-end/php/seguridad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/seguridadAlumno.php" afterPath="$PROJECT_DIR$/.back-end/php/seguridadAlumno.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/seguridadProfesor.php" afterPath="$PROJECT_DIR$/.back-end/php/seguridadProfesor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php" afterPath="$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/ver-preguntas-xml-ajax.php" afterPath="$PROJECT_DIR$/.back-end/php/ver-preguntas-xml-ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/alumno-valido.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/alumno-valido.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/cliente-comprobar-contrasena.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/cliente-comprobar-contrasena.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/comprobar-contrasena.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/comprobar-contrasena.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta-SW.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta-SW.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/php/web-services/servidor.php" afterPath="$PROJECT_DIR$/.back-end/php/web-services/servidor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.back-end/xml/contador.xml" afterPath="$PROJECT_DIR$/.back-end/xml/contador.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ProyectoSW-LB4-AJAX.iml" afterPath="$PROJECT_DIR$/.idea/ProyectoSW-LB4-AJAX.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ProyectoSW-LBPS.iml" afterPath="$PROJECT_DIR$/.idea/ProyectoSW-LBPS.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php" afterPath="$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/creditos.php" afterPath="$PROJECT_DIR$/front-end/.Users/php/creditos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/gestion-preguntas.php" afterPath="$PROJECT_DIR$/front-end/.Users/php/gestion-preguntas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/jugar.php" afterPath="$PROJECT_DIR$/front-end/.Users/php/jugar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/layout.php" afterPath="$PROJECT_DIR$/front-end/.Users/php/layout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/php/map.geojson" afterPath="$PROJECT_DIR$/front-end/.Users/php/map.geojson" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/resources/txt/toppasswords.txt" afterPath="$PROJECT_DIR$/front-end/.Users/resources/txt/toppasswords.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.Users/xml/usuarios.xml" afterPath="$PROJECT_DIR$/front-end/.Users/xml/usuarios.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.idea/front-end.iml" afterPath="$PROJECT_DIR$/front-end/.idea/front-end.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.idea/modules.xml" afterPath="$PROJECT_DIR$/front-end/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/.idea/workspace.xml" afterPath="$PROJECT_DIR$/front-end/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/README.md" afterPath="$PROJECT_DIR$/front-end/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/estilos/smartphone.css" afterPath="$PROJECT_DIR$/front-end/estilos/smartphone.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/estilos/style.css" afterPath="$PROJECT_DIR$/front-end/estilos/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/estilos/wide.css" afterPath="$PROJECT_DIR$/front-end/estilos/wide.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/html/creditos.html" afterPath="$PROJECT_DIR$/front-end/html/creditos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/html/layout.html" afterPath="$PROJECT_DIR$/front-end/html/layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/html/map.geojson" afterPath="$PROJECT_DIR$/front-end/html/map.geojson" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/php/login.php" afterPath="$PROJECT_DIR$/front-end/php/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/php/register.php" afterPath="$PROJECT_DIR$/front-end/php/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/README.md" afterPath="$PROJECT_DIR$/nusoap/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/composer.json" afterPath="$PROJECT_DIR$/nusoap/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__class.wsdlcache.php.html" afterPath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__class.wsdlcache.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__nusoap.php.html" afterPath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__nusoap.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__nusoapmime.php.html" afterPath="$PROJECT_DIR$/nusoap/docs/__filesource/fsource_nusoap__nusoapmime.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/blank.html" afterPath="$PROJECT_DIR$/nusoap/docs/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/classtrees_nusoap.html" afterPath="$PROJECT_DIR$/nusoap/docs/classtrees_nusoap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/elementindex.html" afterPath="$PROJECT_DIR$/nusoap/docs/elementindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/elementindex_nusoap.html" afterPath="$PROJECT_DIR$/nusoap/docs/elementindex_nusoap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/errors.html" afterPath="$PROJECT_DIR$/nusoap/docs/errors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/index.html" afterPath="$PROJECT_DIR$/nusoap/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/li_nusoap.html" afterPath="$PROJECT_DIR$/nusoap/docs/li_nusoap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/banner.css" afterPath="$PROJECT_DIR$/nusoap/docs/media/banner.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/media/stylesheet.css" afterPath="$PROJECT_DIR$/nusoap/docs/media/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/XMLSchema.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/XMLSchema.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/_class_wsdlcache_php.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/_class_wsdlcache_php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/_nusoap_php.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/_nusoap_php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/_nusoapmime_php.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/_nusoapmime_php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_base.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_client.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_client.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_client_mime.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_client_mime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_fault.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_fault.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_parser.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_parser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_server.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_server.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_server_mime.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_server_mime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_wsdlcache.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_wsdlcache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_xmlschema.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoap_xmlschema.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoapservermime.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/nusoapservermime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_fault.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_fault.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_parser.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_parser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_server.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_server.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_transport_http.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soap_transport_http.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soapclient.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soapclient.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soapclientmime.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soapclientmime.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/soapval.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/soapval.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/wsdl.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/wsdl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/nusoap/wsdlcache.html" afterPath="$PROJECT_DIR$/nusoap/docs/nusoap/wsdlcache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/docs/packages.html" afterPath="$PROJECT_DIR$/nusoap/docs/packages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/client1.php" afterPath="$PROJECT_DIR$/nusoap/samples/client1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/client2.php" afterPath="$PROJECT_DIR$/nusoap/samples/client2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/client3.php" afterPath="$PROJECT_DIR$/nusoap/samples/client3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/getfile1client.php" afterPath="$PROJECT_DIR$/nusoap/samples/getfile1client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/getfile2client.php" afterPath="$PROJECT_DIR$/nusoap/samples/getfile2client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/index.html" afterPath="$PROJECT_DIR$/nusoap/samples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/mimeclient.php" afterPath="$PROJECT_DIR$/nusoap/samples/mimeclient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/sslclient.php" afterPath="$PROJECT_DIR$/nusoap/samples/sslclient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient1.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient10.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient10.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient11.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient12.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient12.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient13.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient13.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient14.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient14.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient15.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient2.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient3.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient3b.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient3b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient3c.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient3c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient4.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient5.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient6.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient7.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient8.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/samples/wsdlclient9.php" afterPath="$PROJECT_DIR$/nusoap/samples/wsdlclient9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nusoap/src/nusoap.php" afterPath="$PROJECT_DIR$/nusoap/src/nusoap.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,126 +181,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cambiarPregunta.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php">
+      <file leaf-file-name="layout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/.Users/php/layout.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="187" column="80" lean-forward="false" selection-start-line="187" selection-start-column="80" selection-end-line="187" selection-end-column="80" />
+            <state relative-caret-position="0">
+              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
               <folding>
-                <marker date="1511542655949" expanded="true" signature="429:481" ph="SELECT email... users" />
-                <marker date="1511542655949" expanded="true" signature="874:918" ph="SELECT cod_p... preguntas" />
-                <marker date="1511542655949" expanded="true" signature="6749:6799" ph="..." />
-                <marker date="1511542655949" expanded="true" signature="6749:6800" ph="..." />
-                <marker date="1511542655949" expanded="true" signature="6749:6839" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="obtenerPregunta.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.back-end/php/obtenerPregunta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-              <folding>
-                <marker date="1511541062247" expanded="true" signature="223:266" ph="SELECT * FRO... preguntas" />
-                <marker date="1511541062247" expanded="true" signature="223:267" ph="SELECT * FRO... preguntas" />
-                <marker date="1511541062247" expanded="true" signature="375:2339" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:416" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:427" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:434" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:445" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:454" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="397:2332" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:643" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:734" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:735" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:747" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:750" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:832" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:2298" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="568:2319" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="590:643" ph="..." />
-                <marker date="1511541062247" expanded="true" signature="621:627" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="810:816" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="975:981" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="1145:1151" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="1321:1327" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="1504:1510" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="1703:1709" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="1902:1908" ph=" " />
-                <marker date="1511541062247" expanded="true" signature="2185:2191" ph=" " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="actualizarPregunta.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.back-end/php/actualizarPregunta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="42" column="96" lean-forward="true" selection-start-line="42" selection-start-column="96" selection-end-line="42" selection-end-column="96" />
-              <folding>
-                <marker date="1511543156675" expanded="true" signature="89:108" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="582:815" ph="UPDATE pregu... " />
-                <marker date="1511543156675" expanded="true" signature="588:815" ph="INSERT INTO preguntas... " />
-                <marker date="1511543156675" expanded="true" signature="1058:3018" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1080:1099" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1080:1139" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1080:1189" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1080:3011" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1226:2984" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1243:2977" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1265:1318" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1265:2968" ph="..." />
-                <marker date="1511543156675" expanded="true" signature="1296:1302" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="1487:1493" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="1653:1659" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="1824:1830" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="2002:2008" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="2187:2193" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="2388:2394" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="2589:2595" ph=" " />
-                <marker date="1511543156675" expanded="true" signature="2864:2870" ph=" " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".Dbconnect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.back-end/.others/.Dbconnect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ver-preguntas-ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
-              <folding>
-                <marker date="1511535210200" expanded="true" signature="867:911" ph="SELECT email... users" />
-                <marker date="1511535210200" expanded="true" signature="1366:1389" ph="SELECT * FRO... preguntas" />
-                <marker date="1511535210200" expanded="true" signature="1506:3770" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="1529:2624" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="1554:2600" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="1648:2574" ph="..." />
-                <marker date="1511535210200" expanded="false" signature="1690:1727" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="1728:2541" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="2649:3770" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="2676:3770" ph="..." />
-                <marker date="1511535210200" expanded="false" signature="2714:2756" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="2757:3770" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="2848:3770" ph="..." />
-                <marker date="1511535210200" expanded="false" signature="2927:2964" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="2965:3770" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="3933:4925" ph="..." />
-                <marker date="1511535210200" expanded="true" signature="4696:4889" ph="..." />
-                <marker date="1511535210200" expanded="false" signature="4748:4771" ph="data:" />
+                <marker date="1512026801295" expanded="true" signature="373:425" ph="SELECT email... users" />
+                <marker date="1512026801295" expanded="true" signature="3608:3628" ph="..." />
               </folding>
             </state>
           </provider>
@@ -139,35 +197,10 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/php/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="65" column="71" lean-forward="false" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+            <state relative-caret-position="810">
+              <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
               <folding>
-                <marker date="1511524564869" expanded="true" signature="1023:1105" ph="SELECT email... users" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/.Users/php/layout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-              <folding>
-                <marker date="1511538689357" expanded="true" signature="468:520" ph="SELECT email... users" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.back-end/php/logout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-              <folding>
-                <marker date="1511524508381" expanded="true" signature="464:508" ph="SELECT email... users" />
-                <marker date="1511524508381" expanded="true" signature="883:927" ph="UPDATE users... " />
+                <marker date="1511979420000" expanded="true" signature="142:165" ph="..." />
               </folding>
             </state>
           </provider>
@@ -176,26 +209,124 @@
       <file leaf-file-name="gestion-preguntas.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/.Users/php/gestion-preguntas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1014">
-              <caret line="330" column="9" lean-forward="true" selection-start-line="302" selection-start-column="7" selection-end-line="330" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="222" column="12" lean-forward="false" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
               <folding>
-                <marker date="1511523571368" expanded="true" signature="473:531" ph="SELECT email... users" />
-                <marker date="1511523571368" expanded="true" signature="1048:1092" ph="UPDATE users... " />
+                <marker date="1512028629666" expanded="true" signature="358:416" ph="SELECT email... users" />
+                <marker date="1512028629666" expanded="true" signature="891:935" ph="UPDATE users... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insertar-preguntas-ajax.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/php/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="111" column="136" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="111" selection-end-column="136" />
+            <state relative-caret-position="254">
+              <caret line="247" column="64" lean-forward="false" selection-start-line="247" selection-start-column="64" selection-end-line="247" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contador.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.back-end/xml/contador.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cambiarPregunta.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="185" column="53" lean-forward="false" selection-start-line="185" selection-start-column="53" selection-end-line="185" selection-end-column="53" />
               <folding>
-                <marker date="1510657676000" expanded="true" signature="494:546" ph="SELECT email... users" />
-                <marker date="1510657676000" expanded="true" signature="4603:4853" ph="INSERT INTO preguntas... " />
-                <marker date="1510657676000" expanded="true" signature="5574:5864" ph="INSERT INTO preguntas... " />
-                <marker date="1510657676000" expanded="true" signature="6341:6353" ph="..." />
+                <marker date="1512055237501" expanded="true" signature="348:400" ph="SELECT email... users" />
+                <marker date="1512055237501" expanded="true" signature="754:797" ph="SELECT CodPr... Preguntas" />
+                <marker date="1512055237501" expanded="true" signature="904:7603" ph="..." />
+                <marker date="1512055237501" expanded="true" signature="6702:6792" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="obtener-pregunta.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <marker date="1512054823134" expanded="true" signature="619:691" ph="SELECT pregu... Preguntas" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seguridad.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.back-end/php/seguridad.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="obtenerPregunta.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.back-end/php/obtenerPregunta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1512055162321" expanded="true" signature="195:237" ph="SELECT * FRO... Preguntas" />
+                <marker date="1512055162321" expanded="true" signature="433:2390" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="455:514" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="455:2383" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="619:2349" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="619:2370" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="641:694" ph="..." />
+                <marker date="1512055162321" expanded="true" signature="641:2340" ph="..." />
+                <marker date="1512055162321" expanded="false" signature="672:678" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="861:867" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1026:1032" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1196:1202" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1372:1378" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1555:1561" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1754:1760" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="1953:1959" ph=" " />
+                <marker date="1512055162321" expanded="false" signature="2236:2242" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actualizarPregunta.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.back-end/php/actualizarPregunta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+              <folding>
+                <marker date="1512055300292" expanded="true" signature="582:799" ph="UPDATE pregu... " />
+                <marker date="1512055300292" expanded="true" signature="944:986" ph="SELECT * FRO... Preguntas" />
+                <marker date="1512055300292" expanded="true" signature="944:987" ph="SELECT * FRO... Preguntas" />
+                <marker date="1512055300292" expanded="true" signature="1180:3140" ph="..." />
+                <marker date="1512055300292" expanded="true" signature="1202:3133" ph="..." />
+                <marker date="1512055300292" expanded="true" signature="1348:3106" ph="..." />
+                <marker date="1512055300292" expanded="true" signature="1365:3099" ph="..." />
+                <marker date="1512055300292" expanded="true" signature="1387:3090" ph="..." />
+                <marker date="1512055300292" expanded="false" signature="1418:1424" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="1609:1615" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="1775:1781" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="1946:1952" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="2124:2130" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="2309:2315" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="2510:2516" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="2711:2717" ph=" " />
+                <marker date="1512055300292" expanded="false" signature="2986:2992" ph=" " />
               </folding>
             </state>
           </provider>
@@ -210,8 +341,8 @@
       <find>&lt;?</find>
       <find>h2</find>
       <find>logout</find>
-      <find>id</find>
       <find>'</find>
+      <find>id</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -241,26 +372,32 @@
         <option value="$PROJECT_DIR$/front-end/.Users/HTML-N-PHP/insertar-pregunta.php" />
         <option value="$PROJECT_DIR$/.back-end/php/.ver-preguntas.php" />
         <option value="$PROJECT_DIR$/.back-end/php/ver-preguntax-ajax.php" />
-        <option value="$PROJECT_DIR$/.back-end/.others/.Dbconnect.php" />
         <option value="$PROJECT_DIR$/front-end/.Users/php/insertar-pregunta.php" />
-        <option value="$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php" />
         <option value="$PROJECT_DIR$/front-end/.Users/html/layout.php" />
-        <option value="$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php" />
         <option value="$PROJECT_DIR$/.back-end/php/web-services/comprobar-contrasena.php" />
-        <option value="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php" />
         <option value="$PROJECT_DIR$/front-end/php/register.php" />
         <option value="$PROJECT_DIR$/.back-end/php/web-services/alumno-valido.php" />
         <option value="$PROJECT_DIR$/.back-end/php/web-services/cliente-comprobar-contrasena.php" />
-        <option value="$PROJECT_DIR$/front-end/.Users/php/creditos.php" />
         <option value="$PROJECT_DIR$/front-end/estilos/wide.css" />
         <option value="$PROJECT_DIR$/front-end/estilos/style.css" />
+        <option value="$PROJECT_DIR$/.back-end/.others/vars.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/seguridadProfesor.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/cantidad-preguntas.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/cantidad-visitantes-dentro.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/logout.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php" />
+        <option value="$PROJECT_DIR$/front-end/.Users/php/creditos.php" />
+        <option value="$PROJECT_DIR$/front-end/.Users/php/jugar.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/seguridad.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/seguridadAlumno.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php" />
+        <option value="$PROJECT_DIR$/front-end/php/login.php" />
+        <option value="$PROJECT_DIR$/.back-end/.others/.Dbconnect.php" />
+        <option value="$PROJECT_DIR$/front-end/.Users/php/layout.php" />
         <option value="$PROJECT_DIR$/front-end/.Users/php/gestion-preguntas.php" />
         <option value="$PROJECT_DIR$/.back-end/xml/contador.xml" />
-        <option value="$PROJECT_DIR$/.back-end/php/logout.php" />
-        <option value="$PROJECT_DIR$/front-end/php/login.php" />
-        <option value="$PROJECT_DIR$/.back-end/.others/vars.php" />
-        <option value="$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php" />
-        <option value="$PROJECT_DIR$/front-end/.Users/php/layout.php" />
+        <option value="$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php" />
         <option value="$PROJECT_DIR$/.back-end/php/obtenerPregunta.php" />
         <option value="$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php" />
         <option value="$PROJECT_DIR$/.back-end/php/actualizarPregunta.php" />
@@ -299,8 +436,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,6 +459,13 @@
               <item name="ProyectoSW-LB7" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name=".back-end" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ProyectoSW-LB7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyectoSW-LB7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".back-end" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web-services" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="ProyectoSW-LB7" type="b2602c69:ProjectViewProjectNode" />
@@ -371,19 +513,21 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/back-end/php" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.back-end/php/prev" />
       <recent name="$PROJECT_DIR$/.back-end/php" />
       <recent name="$PROJECT_DIR$/.back-end/.others" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/back-end/php" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -428,12 +572,16 @@
       <workItem from="1511460010568" duration="413000" />
       <workItem from="1511460612715" duration="39000" />
       <workItem from="1511522317418" duration="6173000" />
-      <workItem from="1511533126407" duration="9434000" />
+      <workItem from="1511533126407" duration="13171000" />
+      <workItem from="1511980490740" duration="996000" />
+      <workItem from="1511982035659" duration="155000" />
+      <workItem from="1512026621684" duration="3905000" />
+      <workItem from="1512052319093" duration="2982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121026000" />
+    <option name="totallyTimeSpent" value="132801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="32" width="1920" height="1048" extended-state="6" />
@@ -484,28 +632,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front-end/php/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/html/layout.php" />
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/html/creditos.php" />
-    <entry file="file://$PROJECT_DIR$/.back-end/php/prev/.ver-preguntas.php" />
-    <entry file="file://$PROJECT_DIR$/.back-end/.others/.reg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/insertar-pregunta.php" />
     <entry file="file://$PROJECT_DIR$/front-end/php/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2304">
@@ -567,48 +699,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/.Users/php/insertar-pregunta.php" />
     <entry file="file://$PROJECT_DIR$/front-end/.Users/html/layout.php" />
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta-SW.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/servidor.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/alumno-valido.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3204">
-          <caret line="178" column="5" lean-forward="false" selection-start-line="137" selection-start-column="4" selection-end-line="178" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/comprobar-contrasena.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -616,28 +706,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/cliente-comprobar-contrasena.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/jugar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1511452480000" expanded="true" signature="468:520" ph="SELECT email... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front-end/estilos/wide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,16 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/creditos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="99" column="114" lean-forward="true" selection-start-line="99" selection-start-column="114" selection-end-line="99" selection-end-column="114" />
-          <folding>
-            <marker date="1511523200708" expanded="true" signature="462:514" ph="SELECT email... users" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,21 +735,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/xml/contador.xml">
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/alumno-valido.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/php/login.php">
+    <entry file="file://$PROJECT_DIR$/.back-end/php/cantidad-preguntas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="65" column="71" lean-forward="false" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
-          <folding>
-            <marker date="1511524564869" expanded="true" signature="1023:1105" ph="SELECT email... users" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/cantidad-visitantes-dentro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -700,162 +783,218 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/servidor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta-SW.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/jugar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/layoutAlumno.php" />
+    <entry file="file://$PROJECT_DIR$/.back-end/php/seguridadAlumno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/seguridadProfesor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/creditos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1511545362000" expanded="true" signature="342:394" ph="SELECT email... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/cliente-comprobar-contrasena.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.back-end/php/logout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="882">
+          <caret line="49" column="101" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="101" />
           <folding>
-            <marker date="1511524508381" expanded="true" signature="464:508" ph="SELECT email... users" />
-            <marker date="1511524508381" expanded="true" signature="883:927" ph="UPDATE users... " />
+            <marker date="1511545362000" expanded="true" signature="346:390" ph="SELECT email... users" />
+            <marker date="1511545362000" expanded="true" signature="765:809" ph="UPDATE users... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/layout.php">
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-datos-alumnos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-          <folding>
-            <marker date="1511538689357" expanded="true" signature="468:520" ph="SELECT email... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/insertar-preguntas-ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="111" column="136" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="111" selection-end-column="136" />
-          <folding>
-            <marker date="1510657676000" expanded="true" signature="494:546" ph="SELECT email... users" />
-            <marker date="1510657676000" expanded="true" signature="4603:4853" ph="INSERT INTO preguntas... " />
-            <marker date="1510657676000" expanded="true" signature="5574:5864" ph="INSERT INTO preguntas... " />
-            <marker date="1510657676000" expanded="true" signature="6341:6353" ph="..." />
-          </folding>
+        <state relative-caret-position="1350">
+          <caret line="75" column="50" lean-forward="false" selection-start-line="75" selection-start-column="50" selection-end-line="75" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.back-end/.others/.Dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.back-end/php/ver-preguntas-ajax.php">
+    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding>
-            <marker date="1511535210200" expanded="true" signature="867:911" ph="SELECT email... users" />
-            <marker date="1511535210200" expanded="true" signature="1366:1389" ph="SELECT * FRO... preguntas" />
-            <marker date="1511535210200" expanded="true" signature="1506:3770" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="1529:2624" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="1554:2600" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="1648:2574" ph="..." />
-            <marker date="1511535210200" expanded="false" signature="1690:1727" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="1728:2541" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="2649:3770" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="2676:3770" ph="..." />
-            <marker date="1511535210200" expanded="false" signature="2714:2756" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="2757:3770" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="2848:3770" ph="..." />
-            <marker date="1511535210200" expanded="false" signature="2927:2964" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="2965:3770" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="3933:4925" ph="..." />
-            <marker date="1511535210200" expanded="true" signature="4696:4889" ph="..." />
-            <marker date="1511535210200" expanded="false" signature="4748:4771" ph="data:" />
+            <marker date="1512026801295" expanded="true" signature="373:425" ph="SELECT email... users" />
+            <marker date="1512026801295" expanded="true" signature="3608:3628" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php">
+    <entry file="file://$PROJECT_DIR$/front-end/php/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="187" column="80" lean-forward="false" selection-start-line="187" selection-start-column="80" selection-end-line="187" selection-end-column="80" />
+        <state relative-caret-position="810">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
           <folding>
-            <marker date="1511542655949" expanded="true" signature="429:481" ph="SELECT email... users" />
-            <marker date="1511542655949" expanded="true" signature="874:918" ph="SELECT cod_p... preguntas" />
-            <marker date="1511542655949" expanded="true" signature="6749:6799" ph="..." />
-            <marker date="1511542655949" expanded="true" signature="6749:6800" ph="..." />
-            <marker date="1511542655949" expanded="true" signature="6749:6839" ph="..." />
+            <marker date="1511979420000" expanded="true" signature="142:165" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/.Users/php/gestion-preguntas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1014">
-          <caret line="330" column="9" lean-forward="true" selection-start-line="302" selection-start-column="7" selection-end-line="330" selection-end-column="9" />
+        <state relative-caret-position="450">
+          <caret line="222" column="12" lean-forward="false" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
           <folding>
-            <marker date="1511523571368" expanded="true" signature="473:531" ph="SELECT email... users" />
-            <marker date="1511523571368" expanded="true" signature="1048:1092" ph="UPDATE users... " />
+            <marker date="1512028629666" expanded="true" signature="358:416" ph="SELECT email... users" />
+            <marker date="1512028629666" expanded="true" signature="891:935" ph="UPDATE users... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/xml/contador.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/web-services/obtener-pregunta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1512054823134" expanded="true" signature="619:691" ph="SELECT pregu... Preguntas" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.back-end/php/seguridad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/php/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="247" column="64" lean-forward="false" selection-start-line="247" selection-start-column="64" selection-end-line="247" selection-end-column="120" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.back-end/php/obtenerPregunta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        <state relative-caret-position="198">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <marker date="1511541062247" expanded="true" signature="223:266" ph="SELECT * FRO... preguntas" />
-            <marker date="1511541062247" expanded="true" signature="223:267" ph="SELECT * FRO... preguntas" />
-            <marker date="1511541062247" expanded="true" signature="375:2339" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:416" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:427" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:434" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:445" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:454" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="397:2332" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:643" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:734" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:735" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:747" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:750" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:832" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:2298" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="568:2319" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="590:643" ph="..." />
-            <marker date="1511541062247" expanded="true" signature="621:627" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="810:816" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="975:981" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="1145:1151" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="1321:1327" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="1504:1510" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="1703:1709" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="1902:1908" ph=" " />
-            <marker date="1511541062247" expanded="true" signature="2185:2191" ph=" " />
+            <marker date="1512055162321" expanded="true" signature="195:237" ph="SELECT * FRO... Preguntas" />
+            <marker date="1512055162321" expanded="true" signature="433:2390" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="455:514" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="455:2383" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="619:2349" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="619:2370" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="641:694" ph="..." />
+            <marker date="1512055162321" expanded="true" signature="641:2340" ph="..." />
+            <marker date="1512055162321" expanded="false" signature="672:678" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="861:867" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1026:1032" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1196:1202" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1372:1378" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1555:1561" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1754:1760" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="1953:1959" ph=" " />
+            <marker date="1512055162321" expanded="false" signature="2236:2242" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/.Users/php/cambiarPregunta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="185" column="53" lean-forward="false" selection-start-line="185" selection-start-column="53" selection-end-line="185" selection-end-column="53" />
+          <folding>
+            <marker date="1512055237501" expanded="true" signature="348:400" ph="SELECT email... users" />
+            <marker date="1512055237501" expanded="true" signature="754:797" ph="SELECT CodPr... Preguntas" />
+            <marker date="1512055237501" expanded="true" signature="904:7603" ph="..." />
+            <marker date="1512055237501" expanded="true" signature="6702:6792" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.back-end/php/actualizarPregunta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="42" column="96" lean-forward="true" selection-start-line="42" selection-start-column="96" selection-end-line="42" selection-end-column="96" />
+        <state relative-caret-position="288">
+          <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
           <folding>
-            <marker date="1511543156675" expanded="true" signature="89:108" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="582:815" ph="UPDATE pregu... " />
-            <marker date="1511543156675" expanded="true" signature="588:815" ph="INSERT INTO preguntas... " />
-            <marker date="1511543156675" expanded="true" signature="1058:3018" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1080:1099" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1080:1139" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1080:1189" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1080:3011" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1226:2984" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1243:2977" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1265:1318" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1265:2968" ph="..." />
-            <marker date="1511543156675" expanded="true" signature="1296:1302" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="1487:1493" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="1653:1659" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="1824:1830" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="2002:2008" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="2187:2193" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="2388:2394" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="2589:2595" ph=" " />
-            <marker date="1511543156675" expanded="true" signature="2864:2870" ph=" " />
+            <marker date="1512055300292" expanded="true" signature="582:799" ph="UPDATE pregu... " />
+            <marker date="1512055300292" expanded="true" signature="944:986" ph="SELECT * FRO... Preguntas" />
+            <marker date="1512055300292" expanded="true" signature="944:987" ph="SELECT * FRO... Preguntas" />
+            <marker date="1512055300292" expanded="true" signature="1180:3140" ph="..." />
+            <marker date="1512055300292" expanded="true" signature="1202:3133" ph="..." />
+            <marker date="1512055300292" expanded="true" signature="1348:3106" ph="..." />
+            <marker date="1512055300292" expanded="true" signature="1365:3099" ph="..." />
+            <marker date="1512055300292" expanded="true" signature="1387:3090" ph="..." />
+            <marker date="1512055300292" expanded="false" signature="1418:1424" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="1609:1615" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="1775:1781" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="1946:1952" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="2124:2130" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="2309:2315" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="2510:2516" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="2711:2717" ph=" " />
+            <marker date="1512055300292" expanded="false" signature="2986:2992" ph=" " />
           </folding>
         </state>
       </provider>

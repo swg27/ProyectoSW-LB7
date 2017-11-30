@@ -1,15 +1,13 @@
+<!--?php session_start(); ?-->
 <!DOCTYPE html>
 <?php
 
-include_once '../../../.back-end/php/seguridad.php';
-
+include_once '../../../.back-end/php/seguridadProfesor.php';
 if(isset($_SESSION['ID']))
 {
     $email = $_SESSION['email'];
     if (empty($email)) {
         echo 'error 1';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'error 2';
     } else {
 
         include_once '../../../.back-end/.others/.Dbconnect.php';
@@ -29,12 +27,8 @@ if(isset($_SESSION['ID']))
 
          if($email == $row['email']) {
 
-        $QueryCollectionPreguntas = mysqli_query($conn, "SELECT cod_pregunta, pregunta FROM preguntas");
-
-
-
-
-
+        $query = "SELECT CodPregunta, pregunta FROM Preguntas";
+        $QueryCollectionPreguntas = mysqli_query($conn, $query) or die ('Error : '.mysqli_error($conn));
 ?>
 
 
@@ -175,8 +169,8 @@ if(isset($_SESSION['ID']))
     </header>
         <div style="height: auto;">
     <nav class='main' id='n1' role='navigation'>
+        <span><a href='layout.php'>Inicio</a></span>
         <span><a href='creditos.php'>Creditos</a></span>
-        <span><a href='gestion-preguntas.php'>Gestión de preguntas</a></span>
 
     </nav>
     <section class="main" id="s1">
@@ -188,8 +182,8 @@ if(isset($_SESSION['ID']))
                                 <option value="">Selecione [cod] de la pregunta.</option>';
                    while($row2=mysqli_fetch_array( $QueryCollectionPreguntas))
                    {
-                   echo '<option id="' . htmlspecialchars($row2['cod_pregunta']) . '" value="' . htmlspecialchars($row2['cod_pregunta']) . '">['
-                       . htmlspecialchars($row2['cod_pregunta']).'] '. '</option>';
+                   echo '<option id="' . htmlspecialchars($row2['CodPregunta']) . '" value="' . htmlspecialchars($row2['CodPregunta']) . '">['
+                       . htmlspecialchars($row2['CodPregunta']).'] '. '</option>';
                    }
                    echo '</select>';
                 ?>

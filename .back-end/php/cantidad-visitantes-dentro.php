@@ -13,9 +13,7 @@ if(isset($_GET['user']))
     $email = $_GET['user'];
     if (empty($email)) {
         echo 'error 1';
-    } else if (!preg_match("/^(([a-zA-Z]{1,})+[0-9]{3})+@ikasle\.ehu\.+(eus|es)$/", $email)) {
-        echo 'error 2';
-    } else {
+    }  else {
 
         include_once '../.others/.Dbconnect.php';
 

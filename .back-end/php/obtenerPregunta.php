@@ -10,18 +10,17 @@ if(isset($_SESSION['ID'])){
 
     $cod_pregunta = $_GET['cod_pregunta'];
 
-    $QueryPregunta = mysqli_query($conn, "SELECT * FROM preguntas WHERE cod_pregunta=$cod_pregunta");
+    $query = "SELECT * FROM Preguntas WHERE CodPregunta=$cod_pregunta";
+    $QueryPregunta = mysqli_query($conn, $query) or die ('Error : '.mysqli_error($conn));
 
     $row = mysqli_fetch_array($QueryPregunta);
 
-
 }
-
 
 $result .= '<div id="blk" align="left">
     </br>
     <table >
-        <form id="fpreguntas" name="fpreguntas" action="../../../.back-end/php/insertar-preguntas-ajax.php" method="Post" enctype="multipart/form-data">
+        <form id="fpreguntas" name="fpreguntas" action="'.htmlspecialchars($_SERVER["PHP_SELF"]).'"  method="Post" enctype="multipart/form-data">
             <tr>
 
                 <td>
